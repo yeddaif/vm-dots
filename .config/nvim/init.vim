@@ -1,0 +1,10 @@
+source $HOME/.config/nvim/config/plugins.vim
+source $HOME/.config/nvim/config/settings.vim
+source $HOME/.config/nvim/config/settings.vim
+source $HOME/.config/nvim/config/mappings.vim
+luafile $HOME/.config/nvim/lua/compe-conf.lua
+luafile $HOME/.config/nvim/lua/buffer.lua
+luafile $HOME/.config/nvim/lua/statusline.lua
+luafile $HOME/.config/nvim/lua/tree.lua
+luafile $HOME/.config/nvim/lua/icons.lua
+luafile $HOME/.config/nvim/lua/signify.lua
